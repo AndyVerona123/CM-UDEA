@@ -2,7 +2,7 @@ package co.edu.udea.compumovil.gr05_20182.lab1;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
+//ANDRES ES UN MONGOLO
 public class MainActivity extends AppCompatActivity {
 
     @Override
