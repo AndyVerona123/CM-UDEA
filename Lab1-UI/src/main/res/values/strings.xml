@@ -2,4 +2,7 @@
     <string name="app_name">App Restaurant</string>
     <string name="welcome">Welcome</string>
     <string name="options">Enter an option</string>
+    <string name="options_food">Enter the food</string>
+    <string name="upload_image">Upload image</string>
+    <string name="save_data">Save data</string>
 </resources>
