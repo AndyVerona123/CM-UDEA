@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">App Restaurant</string>
+    <string name="welcome">Bienvenue</string>
     <string name="reminder">Ingrese el dato</string>
+    <string name="foods">Les repas</string>
+    <string name="drinks">boissons</string>
 </resources>
