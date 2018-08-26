@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">App Restaurant</string>
     <string name="welcome">Welcome</string>
-    <string name="reminder">Ingrese el dato</string>
-    <string name="foods">foods</string>
-    <string name="drinks">drinks</string>
+    <string name="options">Enter an option</string>
 </resources>
